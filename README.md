@@ -2,4 +2,6 @@
 An improved Cheat Engine hack for the game 1v1.lol 
 
 
-Coming soon! The trainer has been finalized and I will record the video soon. Expecting a release by February 1st, 2021 if I'm not lazy lol 
+Coming soon! The trainer has been finalized and I will record the video soon. Expecting a release by February 8th, 2021 if I'm not lazy lol
+
+Sorry for the late release, I'm kinda busy lately  
