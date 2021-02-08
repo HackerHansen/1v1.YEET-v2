@@ -48,3 +48,17 @@ If you already have cheat engine, update to version 7.2
 5.) Press "attach process." 
 
 6.) Enable the features and destroy your friends at the game! 
+
+### IMPORTANT: Please don't use this in competitive/ranked matches(the ones where you can gain/lose trophies) unless you are playing against your friends. 
+
+## If this doesn't work, you may try the following: 
+
+- If you were using a different browser, try using compatibility mode with Brave. If that doesn't work just use Firefox. 
+
+- Try a different computer if you can 
+
+- If you have Badlion Client installed, you may need to disable its anticheat or just uninstall it completely, as it stops cheat engine from running at all, even if the client isn't actually running (for some reason). 
+
+- Make sure you are on the latest version of Cheat Engine 
+
+- Reinstall Cheat Engine 
