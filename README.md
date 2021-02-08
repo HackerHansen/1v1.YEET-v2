@@ -27,7 +27,7 @@ If you already have cheat engine, update to version 7.2
 
 1.) If you are using a browser other than Firefox or prefer manual mode, go to Task Manager and press the "details" tab. 
 
-*If you aren't using Firefox, you need to be using Chrome or a Chromium-based browser such as Brave for Compatibility Mode to work.* 
+*If you aren't using Firefox, you need to be using Chrome or a Chromium-based browser such as Brave for compatibility mode to work.* 
 
 ![Details Tab](https://cdn.discordapp.com/attachments/693548483130556610/748647199398952990/detailstab.PNG)
 
