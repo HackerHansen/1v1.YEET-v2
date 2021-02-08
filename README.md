@@ -21,6 +21,8 @@ If you already have cheat engine, update to version 7.2
 
 5.) If you are using Firefox, you can use the auto attachment mode. Simply press "attach process" to attach. 
 
+*If this doesn't work, try using manual mode.* 
+
 6.) Enable the features and destroy your friends at the game! 
 
 ### Manual Mode Instructions: 
