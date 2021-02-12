@@ -27,6 +27,8 @@ If you already have cheat engine, update to version 7.2
 
 ### Manual Mode Instructions: 
 
+Someone made a video on how to do manual mode. It's at https://www.youtube.com/watch?v=2nDErISetRc 
+
 1.) If you are using a browser other than Firefox or prefer manual mode, go to Task Manager and press the "details" tab. 
 
 *If you aren't using Firefox, you need to be using Chrome or a Chromium-based browser such as Brave for compatibility mode to work.* 
