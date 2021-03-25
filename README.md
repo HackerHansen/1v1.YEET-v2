@@ -29,7 +29,7 @@ If you already have cheat engine, update to version 7.2
 
 Someone made a video on how to do manual mode. It's at https://www.youtube.com/watch?v=2nDErISetRc 
 
-**If you are using manual mode, you need to make sure that 1v1.lol is the only tab open!* 
+**If you are using manual mode, you need to make sure that 1v1.lol is the only tab open!** 
 
 1.) If you are using a browser other than Firefox or prefer manual mode, go to Task Manager and press the "details" tab. 
 
