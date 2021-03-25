@@ -17,7 +17,7 @@ If you already have cheat engine, update to version 7.2
 
 3.) Download and run "1v1.YEET_v2.CETRAINER" 
 
-4.) Open a SINGLE tab to [1v1.lol](https://1v1.lol) in your browser. Make sure it is the only tab running. 
+4.) Open a SINGLE tab to [1v1.lol](https://1v1.lol) in your browser. Make sure that 1v1.lol is only opened in one tab. 
 
 5.) If you are using Firefox, you can use the auto attachment mode. Simply press "attach process" to attach. 
 
@@ -28,6 +28,8 @@ If you already have cheat engine, update to version 7.2
 ### Manual Mode Instructions: 
 
 Someone made a video on how to do manual mode. It's at https://www.youtube.com/watch?v=2nDErISetRc 
+
+**If you are using manual mode, you need to make sure that 1v1.lol is the only tab open!* 
 
 1.) If you are using a browser other than Firefox or prefer manual mode, go to Task Manager and press the "details" tab. 
 
