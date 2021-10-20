@@ -14,7 +14,7 @@ God Mode doesn't work on Firefox or Compatibility Mode, and Rapid Fire doesn't w
 
 1.) Download Cheat Engine from https://cheatengine.org/ 
 
-If you already have cheat engine, update to version 7.2 
+If you already have cheat engine, make sure you're on the latest version 
 
 *Cheat Engine tends to bundle useless bundleware, so make sure you read the installation window and make sure you are installing only Cheat Engine and not anything else if you don't want bundleware.*
 
