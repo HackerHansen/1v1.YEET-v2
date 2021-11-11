@@ -34,7 +34,7 @@ Someone made a video on how to do manual mode. It's at https://www.youtube.com/w
 
 **If you are using manual mode, you need to make sure that 1v1.lol is the only tab open!** 
 
-Some features won't work when using compatibility mode. 
+**Some features won't work when using compatibility mode.** 
 
 1.) If you are using a browser other than Firefox or prefer manual mode, go to Task Manager and press the "details" tab. 
 
