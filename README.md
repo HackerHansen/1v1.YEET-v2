@@ -4,9 +4,7 @@ An improved Cheat Engine hack for the game 1v1.lol
 
 # PLEASE ACTUALLY READ THIS PAGE! 
 
-### Current Status: Partially Working (last checked October 17th, 2021)
-
-God Mode doesn't work on Firefox or Compatibility Mode, and Rapid Fire and NoCamCollision don't work on Firefox. I'll roll out a fix in like 10 minutes. 
+### Current Status: Working (last checked November 10th, 2021)
 
 ### Note: This has only been tested on Windows 10 64-bit but may work on other versions of Windows. Support for other operating systems is not planned. Tampermonkey support is also not planned. This has also only been tested on Firefox, Brave, and Chrome. Also, having Badlion Client installed may cause Cheat Engine to not work. 
 
