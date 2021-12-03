@@ -2,7 +2,7 @@
 An improved Cheat Engine hack for the game 1v1.lol 
 
 
-# PLEASE ACTUALLY READ THIS PAGE! 
+# PLEASE ACTUALLY READ THIS PAGE BEFORE MAKING AN ISSUE! 
 
 ### Current Status: Working (last checked November 30th, 2021)
 
