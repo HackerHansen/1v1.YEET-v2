@@ -4,7 +4,9 @@ An improved Cheat Engine hack for the game 1v1.lol
 
 # PLEASE ACTUALLY READ THIS PAGE BEFORE MAKING AN ISSUE! 
 
-### Current Status: Working (last checked December 22nd, 2021)
+### Current Status: Kinda Working (last checked January 23rd, 2021)
+
+Some stuff like god mode is broken 
 
 ### Note: This has only been tested on Windows 10 64-bit but may work on other versions of Windows. Support for other operating systems is not planned. Tampermonkey support is also not planned. This has also only been tested on Firefox, Brave, and Chrome. Also, having Badlion Client installed may cause Cheat Engine to not work. 
 
