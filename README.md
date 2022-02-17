@@ -4,7 +4,7 @@ An improved Cheat Engine hack for the game 1v1.lol
 
 # PLEASE ACTUALLY READ THIS PAGE BEFORE MAKING AN ISSUE! 
 
-### Current Status: Kinda Working (last checked January 23rd, 2022)
+### Current Status: Barely working idk I'll fix it later if I'm really bored or something 
 
 Some stuff like god mode is broken 
 
